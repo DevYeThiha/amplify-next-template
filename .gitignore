@@ -6,7 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 .yarn
+yarn.lock
 amplify_outputs.json
+logs.txt
 
 # testing
 /coverage
